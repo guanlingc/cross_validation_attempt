@@ -1,0 +1,13 @@
+ipykernel==6.23.1
+python==3.10.9
+pandas==1.5.3
+db-dqlite3==0.0.1
+seaborn==0.12.2
+plotly-express==0.4.1
+matplotlib==3.7.0
+numpy==1.23.5
+numpydoc==1.5.0
+scikit-learn==1.2.2
+xgboost==2.0.1
+pathlib==1.0.1
+joblib==1.2.0
